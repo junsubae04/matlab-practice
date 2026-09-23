@@ -1,5 +1,4 @@
 %% 특징 4개를 모두 사용하여, 3개 종을 분류
-% 데이터 불러오기 / 각 종을 숫자로 표현 1: setosa, 2: versicolor, 3: virginica / 학습데이터와 평가데이터 나누기
 clear; close all; clc; 
 
 load fisheriris;
